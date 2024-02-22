@@ -62,4 +62,27 @@ size - 0 to 4 <br>
 .top-{} <br>
 .bottom-{}
 
+<h2>Display</h2>
+.d  --> display <br>
+.d-none <br>
+.d-inline <br>
+.d-inline-block <br>
+.d-block <br>
+.d-flex <br>
+.flex-wrap <br>
+.flex-row <br>
+.flex-column <br>
+.justify-content-center <br>
+.justify-content-between <br>
+.justify-content-around <br>
+.align-items-center <br>
+.align-items-start <br>
+.align-items-end <br>
+.align-items-baseline 
+
+<h2>Text Align</h2>
+.text-start <br>
+.text-end  <br>
+.text-center <br>
+
 
